@@ -1,0 +1,3 @@
+Install Java
+Install Maven
+Using Intellij tool to run project
