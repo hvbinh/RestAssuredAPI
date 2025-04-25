@@ -50,8 +50,6 @@ public class Login {
         CommonFunction.token = jsonPathEvaluator.get("data.token").toString();
         
 
-
-
-
+        
     }
 }
