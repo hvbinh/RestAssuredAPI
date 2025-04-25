@@ -48,7 +48,7 @@ public class Login {
         System.out.println("is_register: " + jsonPathEvaluator.get("data.is_register"));
         CommonFunction.userId = jsonPathEvaluator.get("data.user_id").toString();
         CommonFunction.token = jsonPathEvaluator.get("data.token").toString();
-        //test nhanh main
+        //test 1 branch
 
         
     }
