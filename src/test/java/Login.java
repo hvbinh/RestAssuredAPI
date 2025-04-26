@@ -49,7 +49,7 @@ public class Login {
         CommonFunction.userId = jsonPathEvaluator.get("data.user_id").toString();
         CommonFunction.token = jsonPathEvaluator.get("data.token").toString();
         //test main branch
-        System.out.print("main branch add test 1 branch");
+        System.out.print("test 1 branch");
         
     }
 }
